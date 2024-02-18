@@ -1,0 +1,15 @@
+E:\MyPro\GYM Management System\GYM Management System\bin\Debug\GYM Management System.exe.config
+E:\MyPro\GYM Management System\GYM Management System\bin\Debug\GYM Management System.exe
+E:\MyPro\GYM Management System\GYM Management System\bin\Debug\GYM Management System.pdb
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM Management System.csprojResolveAssemblyReference.cache
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM_Management_System.FormTest.resources
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM_Management_System.Login.resources
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM_Management_System.Properties.Resources.resources
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM Management System.csproj.GenerateResource.Cache
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM Management System.exe
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM Management System.pdb
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM_Management_System.AdminDashboard.resources
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM_Management_System.Payment.resources
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM_Management_System.User_Transactions.resources
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM_Management_System.UserDashboard.resources
+E:\MyPro\GYM Management System\GYM Management System\obj\Debug\GYM_Management_System.UserDetails.resources
